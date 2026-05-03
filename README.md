@@ -1,17 +1,14 @@
-# tiktok_clone
+# Tiktok Clone
 
 A new Flutter project.
 
-## Getting Started
+This is a Tiktok clone, in which I use videos from my gallery to show in the app...
 
-This project is a starting point for a Flutter application.
+Using best practices and the Flutter video player plugin
 
-A few resources to get you started if this is your first Flutter project:
+https://pub.dev/packages/video_player
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+# Project Video
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/user-attachments/assets/aae2641a-3123-488e-a5cc-617c66e3bbd9
+
