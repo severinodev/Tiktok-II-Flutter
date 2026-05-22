@@ -59,7 +59,7 @@ This project follows **Clean Architecture** principles to ensure scalability and
 
 ## 📱 Preview
 
-![TikTok Clone Preview](./TiktokII.mp4)
+https://github.com/user-attachments/assets/296805e7-5eb7-4ff0-aee7-9b13a3da03df
 
 ## 🛠️ Future Improvements
 
